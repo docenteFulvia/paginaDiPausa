@@ -1,0 +1,64 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-position: center ;
+    align-items: center;
+    background-size: cover;
+    background: url(clock-timer.gif) no-repeat center center fixed;
+    background-color: rgba(123, 18, 220, 0.426);
+
+   
+}
+
+.container {
+    text-align:start;
+    padding: 5rem;
+    background-color: rgba(200, 32, 200, 0.356);
+    background-image: ;
+    box-shadow: 40px 40px 140px black;
+    position: absolute;
+    right: 45%;
+    border-radius: 30px;
+    align-items: center;
+    
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    color: rgb(178, 23, 100);
+}
+
+p {
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+    margin-bottom: 1rem;
+    color: rgb(58, 6, 58);
+}
+
+button {
+    font-size: 20px;
+    text-align: center;
+    padding: 0.5rem 1.5rem;
+    border-color: rgb(53, 3, 76);
+    border-radius: 20px;
+    background-color: violet; 
+    color: rgba(rgb(226, 43, 134));
+    padding-right: 70%;
+
+}
+   
+    button:hover {
+        background-color: rgb(5, 111, 111);
+}
+
+#start-button {
+margin-top: 11%;
+color: rgb(78, 4, 53);
+text-align: center;
+}
